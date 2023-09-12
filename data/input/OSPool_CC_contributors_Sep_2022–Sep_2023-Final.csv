@@ -1,0 +1,79 @@
+Institution,CC* Awardee,Restricted Map,Broader Map,Notes
+American Museum of Natural History,YES,X,X,
+Arizona State University,YES,X,X,
+Arkansas State University,Yes - indirect,X,X,Part of GPN
+Brookhaven National Laboratory,no,-,-,
+California Institute of Technology,no,-,-,
+Cinvestav,no,-,-,
+Clarkson University,YES,X,X,
+Clemson University,no,-,-,
+Creighton University,Yes - indirect,X,X,Part of GPN
+Cybera,no,-,-,
+Dakota State University,Yes - indirect,X,X,Part of GPN
+Doane University,Yes - indirect,X,X,Part of GPN
+Emporia State University,Yes - indirect,X,X,Part of GPN
+Fermi National Accelerator Laboratory,no,-,-,
+Florida International University,,-,X,"CC* awardee, but shared computing capacity is not CC*"
+Florida State University,no,-,-,
+Franklin and Marshall College,YES,X,X,
+Georgia Institute of Technology,YES,X,X,
+Georgia State University,no,-,-,
+Great Plains Network,YES,-,-,"Well, sort of — it depends on how you count things"
+Indiana University,no,-,-,
+Kansas State University,YES,X,X,Part of GPN - awardee
+Lafayette College,YES,X,X,
+Lamar University,no,-,-,
+Lancium,no,-,-,
+Lehigh University,YES,X,X,
+Louisiana State University,YES,X,X,
+Louisiana State University Health Sciences Center,YES,X,X,
+Missouri University of Science and Technology,Yes - indirect,X,X,Part of GPN
+New Mexico State University,YES,X,X,
+North Carolina State University,no,-,-,
+North Dakota State University,no,-,-,
+Oklahoma State University,Yes - indirect,X,X,Part of GPN
+Old Dominion University,no,-,-,
+Oral Roberts University,YES,X,X,Part of GPN and independently
+Pennsylvania State University,YES,X,X,
+Portland State University,YES,X,X,
+Purdue University,YES,X,X,
+Rhodes College,YES,X,X,
+Rice University,YES,X,X,
+South Dakota School of Mines and Technology,Yes - indirect,X,X,Part of GPN
+South Dakota State University,Yes - indirect,X,X,Part of GPN
+Southeast Missouri State University,Yes - indirect,X,X,Part of GPN
+Southern Illinois University Edwardsville,YES,X,X,
+Syracuse University,YES,X,X,
+Texas Advanced Computing Center,no,-,-,
+The College of New Jersey,YES,X,X,
+Thomas Jefferson National Accelerator Facility,no,-,-,
+Tufts University,YES,X,X,
+Universidade Estadual Paulista,no,-,-,
+University of Alabama,YES,X,X,
+University of Arkansas,Yes - indirect,X,X,Part of GPN
+University of Arkansas at Little Rock,no,-,-,
+University of Arkansas for Medical Sciences,Yes - indirect,X,X,Part of GPN
+University of California Riverside,no,-,-,
+University of California San Diego,,-,X,"Stopped sharing compute more than a year ago, I think. They do share with OSDF, but no known related award."
+University of Chicago,no,-,-,
+University of Colorado,YES,X,X,Assuming that this is colorado.edu == University of Colorado Boulder
+University of Colorado Denver,YES,X,X,
+University of Connecticut,YES,X,X,
+University of Hawaii,YES,-,X,
+University of Kansas,Yes - indirect,X,X,Part of GPN
+University of Maine System,YES,X,X,
+University of Michigan,,-,X,"Have CC* Regional Compute, but not integrated yet; sharing is probably MWT2"
+University of Mississippi,no,-,-,
+University of Nebraska,,-,X,"Have CC* Data Storage, but not integrated yet"
+University of Notre Dame,YES,X,X,
+University of Puerto Rico - Mayaguez,no,-,-,
+University of South Dakota,no,-,-,
+University of South Florida,no,-,-,
+University of Southern California,YES,X,X,
+University of Tennessee Chattanooga,YES,X,X,
+University of Washington,YES,X,X,
+University of Wisconsin,no,-,-,
+Villanova University,YES,X,X,
+Wayne State University,YES,X,X,
+West Texas A&M University,YES,X,X,
+Wichita State University,YES,X,X,Part of GPN
