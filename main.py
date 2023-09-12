@@ -50,7 +50,7 @@ def mapped_institutions_to_map(df: pd.DataFrame, output_file: str):
     location = [39.814805864395844, -97.69559319869889]
     zoom_start = 4
 
-    m = folium.Map(location=location, zoom_start=zoom_start, tiles=f"https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/{{z}}/{{x}}/{{y}}?access_token={os.environ['MAPBOX_KEY']}", attr="Maps via Mapbox")
+    m = folium.Map(location=location, zoom_start=zoom_start, tiles=f"https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v12/tiles/{{z}}/{{x}}/{{y}}?access_token={os.environ['MAPBOX_KEY']}", attr="Maps via Mapbox")
 
     for row in df.to_dict(orient="records"):
 
