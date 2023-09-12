@@ -1,0 +1,431 @@
+Institution Name,Has Resource(s),Has Project(s),IPEDS,Group,LON,LAT,Canonical Name Via NCES
+The University of Alabama at Birmingham,FALSE,TRUE,100663,1,-86.799345,33.505697,University of Alabama at Birmingham
+University of Alabama at Birmingham,TRUE,FALSE,100663,1,-86.799345,33.505697,University of Alabama at Birmingham
+California Institute of Technology,TRUE,TRUE,110404,2,-118.125878,34.137349,California Institute of Technology
+Caltech,FALSE,TRUE,110404,2,-118.125878,34.137349,California Institute of Technology
+"California State University, Fresno",TRUE,FALSE,110556,3,-119.744569,36.811154,California State University-Fresno
+Fresno State University,FALSE,TRUE,110556,3,-119.744569,36.811154,California State University-Fresno
+University of California Davis,TRUE,FALSE,110644,4,-121.749567,38.539667,University of California-Davis
+"University of California, Davis",FALSE,TRUE,110644,4,-121.749567,38.539667,University of California-Davis
+UC Irvine,TRUE,FALSE,110653,5,-117.841248,33.648434,University of California-Irvine
+"University of California, Irvine",FALSE,TRUE,110653,5,-117.841248,33.648434,University of California-Irvine
+University of California Los Angeles,TRUE,FALSE,110662,6,-118.442179,34.07178,University of California-Los Angeles
+"University of California, Los Angeles",FALSE,TRUE,110662,6,-118.442179,34.07178,University of California-Los Angeles
+University of California Riverside,TRUE,FALSE,110671,7,-117.32741,33.97246,University of California-Riverside
+"University of California, Riverside",FALSE,TRUE,110671,7,-117.32741,33.97246,University of California-Riverside
+University of California San Diego,TRUE,FALSE,110680,8,-117.235866,32.877749,University of California-San Diego
+"University of California, San Diego",FALSE,TRUE,110680,8,-117.235866,32.877749,University of California-San Diego
+UC Santa Barbara,TRUE,FALSE,110705,9,-119.846426,34.416297,University of California-Santa Barbara
+UCSB,TRUE,FALSE,110705,9,-119.846426,34.416297,University of California-Santa Barbara
+"University of California, Santa Barbara",FALSE,TRUE,110705,9,-119.846426,34.416297,University of California-Santa Barbara
+University of California Santa Cruz,TRUE,TRUE,110714,10,-122.058801,36.995584,University of California-Santa Cruz
+"University of California, Santa Cruz",FALSE,TRUE,110714,10,-122.058801,36.995584,University of California-Santa Cruz
+ISI,FALSE,TRUE,123961,11,-118.284169,34.021281,University of Southern California
+University of Southern California,TRUE,TRUE,123961,11,-118.284169,34.021281,University of Southern California
+University of Colorado,TRUE,TRUE,126614,12,-105.270823,40.008781,University of Colorado Boulder
+University of Colorado Boulder,FALSE,TRUE,126614,12,-105.270823,40.008781,University of Colorado Boulder
+University of Hawaii,TRUE,TRUE,141574,13,-157.818979,21.298598,University of Hawaii at Manoa
+University of Hawaii at Manoa,FALSE,TRUE,141574,13,-157.818979,21.298598,University of Hawaii at Manoa
+The University of Chicago,FALSE,TRUE,144050,14,-87.599539,41.787994,University of Chicago
+University of Chicago,TRUE,TRUE,144050,14,-87.599539,41.787994,University of Chicago
+National Center for Supercomputing Applications (NCSA),FALSE,TRUE,145637,15,-88.229114,40.104718,University of Illinois Urbana-Champaign
+SeaQuest,FALSE,TRUE,145637,15,-88.229114,40.104718,University of Illinois Urbana-Champaign
+University of Illinois,FALSE,TRUE,145637,15,-88.229114,40.104718,University of Illinois Urbana-Champaign
+University of Illinois Urbana-Champaign,FALSE,TRUE,145637,15,-88.229114,40.104718,University of Illinois Urbana-Champaign
+University of Illinois at Urbana Champaign,TRUE,FALSE,145637,15,-88.229114,40.104718,University of Illinois Urbana-Champaign
+IUPUI,FALSE,TRUE,151111,16,-86.172217,39.772948,Indiana University-Purdue University-Indianapolis
+Purdue University,TRUE,TRUE,151111,16,-86.172217,39.772948,Indiana University-Purdue University-Indianapolis
+Kansas University,TRUE,FALSE,155317,17,-95.247567,38.958549,University of Kansas
+The University of Kansas,FALSE,TRUE,155317,17,-95.247567,38.958549,University of Kansas
+LSU School of Public Health,FALSE,TRUE,159373,18,-90.083145,29.957272,Louisiana State University Health Sciences Center-New Orleans
+Louisiana State University Health Sciences Center,TRUE,TRUE,159373,18,-90.083145,29.957272,Louisiana State University Health Sciences Center-New Orleans
+Johns Hopkins University,FALSE,TRUE,162928,19,-76.621595,39.328977,Johns Hopkins University
+Johns Hopkins University Applied Physics Lab,FALSE,TRUE,162928,19,-76.621595,39.328977,Johns Hopkins University
+University of Maryland,TRUE,TRUE,163286,20,-76.944721,38.988178,University of Maryland-College Park
+University of Maryland Center for Environmental Science,FALSE,TRUE,163286,20,-76.944721,38.988178,University of Maryland-College Park
+Harvard Medical School,TRUE,TRUE,166027,21,-71.118313,42.374471,Harvard University
+Harvard University,TRUE,TRUE,166027,21,-71.118313,42.374471,Harvard University
+University of Massachusetts,FALSE,TRUE,166629,22,-72.526728,42.385999,University of Massachusetts-Amherst
+University of Massachusetts - Amherst,TRUE,FALSE,166629,22,-72.526728,42.385999,University of Massachusetts-Amherst
+University of Massachusetts Amherst,FALSE,TRUE,166629,22,-72.526728,42.385999,University of Massachusetts-Amherst
+Michigan State University,FALSE,TRUE,171100,23,-84.476111,42.73212,Michigan State University
+Michigan State University High Energy Physics,TRUE,FALSE,171100,23,-84.476111,42.73212,Michigan State University
+University of Mississipi,FALSE,TRUE,176017,24,-89.537434,34.365529,University of Mississippi
+University of Mississippi,TRUE,TRUE,176017,24,-89.537434,34.365529,University of Mississippi
+University of Missouri,FALSE,TRUE,178396,25,-92.328843,38.94531,University of Missouri-Columbia
+University of Missouri-Columbia,FALSE,TRUE,178396,25,-92.328843,38.94531,University of Missouri-Columbia
+University of Nebraska,TRUE,TRUE,181464,26,-96.700508,40.817598,University of Nebraska-Lincoln
+University of Nebraska - Lincoln,FALSE,TRUE,181464,26,-96.700508,40.817598,University of Nebraska-Lincoln
+University of Nebraska-Lincoln,FALSE,TRUE,181464,26,-96.700508,40.817598,University of Nebraska-Lincoln
+Rutgers University,TRUE,FALSE,186380,27,-74.446251,40.498769,Rutgers University-New Brunswick
+"Rutgers, The State University of New Jersey",FALSE,TRUE,186380,27,-74.446251,40.498769,Rutgers University-New Brunswick
+Columbia University,FALSE,TRUE,190150,28,-73.961885,40.808286,Columbia University in the City of New York
+Columbia University_Nevis Labs,TRUE,FALSE,190150,28,-73.961885,40.808286,Columbia University in the City of New York
+SUNY Albany,TRUE,FALSE,196060,29,-73.824662,42.685489,SUNY at Albany
+State University of New York at Albany,FALSE,TRUE,196060,29,-73.824662,42.685489,SUNY at Albany
+University of Albany,FALSE,TRUE,196060,29,-73.824662,42.685489,SUNY at Albany
+State University of New York at Stony Brook,FALSE,TRUE,196097,30,-73.12046,40.91476,Stony Brook University
+Stony Brook University,TRUE,FALSE,196097,30,-73.12046,40.91476,Stony Brook University
+State University of New York at Buffalo,FALSE,TRUE,196130,31,-78.882125,42.933832,SUNY Buffalo State
+University of Buffalo,TRUE,FALSE,196130,31,-78.882125,42.933832,SUNY Buffalo State
+Duke University,FALSE,TRUE,198419,32,-78.937624,36.001135,Duke University
+Duke_University,TRUE,FALSE,198419,32,-78.937624,36.001135,Duke University
+UNC Chapel Hill,FALSE,TRUE,199120,33,-79.050969,35.911769,University of North Carolina at Chapel Hill
+University of North Carolina,TRUE,FALSE,199120,33,-79.050969,35.911769,University of North Carolina at Chapel Hill
+University of North Carolina at Chapel Hill,FALSE,TRUE,199120,33,-79.050969,35.911769,University of North Carolina at Chapel Hill
+"University of North Carolina, Chapel Hill",FALSE,TRUE,199120,33,-79.050969,35.911769,University of North Carolina at Chapel Hill
+Ohio State University,FALSE,TRUE,204796,34,-83.014853,39.999324,Ohio State University-Main Campus
+The Ohio State University,TRUE,TRUE,204796,34,-83.014853,39.999324,Ohio State University-Main Campus
+Oklahoma University,FALSE,TRUE,207500,35,-97.444211,35.209407,University of Oklahoma-Norman Campus
+University of Oklahoma,TRUE,TRUE,207500,35,-97.444211,35.209407,University of Oklahoma-Norman Campus
+Folding@Home Consortium (FAHC),FALSE,TRUE,215062,36,-75.19391,39.950929,University of Pennsylvania
+University of Pennsylvania,TRUE,TRUE,215062,36,-75.19391,39.950929,University of Pennsylvania
+University of Tennessee Chattanooga,TRUE,FALSE,221740,37,-85.300247,35.047519,The University of Tennessee-Chattanooga
+University of Tennessee at Chattanooga,FALSE,TRUE,221740,37,-85.300247,35.047519,The University of Tennessee-Chattanooga
+National Institute for Computational Sciences,FALSE,TRUE,221759,38,-83.925852,35.952082,The University of Tennessee-Knoxville
+University of Tennessee,FALSE,TRUE,221759,38,-83.925852,35.952082,The University of Tennessee-Knoxville
+"University of Tennessee, Knoxville",FALSE,TRUE,221759,38,-83.925852,35.952082,The University of Tennessee-Knoxville
+UT Southwestern,FALSE,TRUE,228635,39,-96.841156,32.812307,University of Texas Southwestern Medical Center
+University of Texas Southwestern Medical Center,FALSE,TRUE,228635,39,-96.841156,32.812307,University of Texas Southwestern Medical Center
+University of Texas Arlington,TRUE,FALSE,228769,40,-97.11296,32.729718,The University of Texas at Arlington
+University of Texas at Arlington,FALSE,TRUE,228769,40,-97.11296,32.729718,The University of Texas at Arlington
+Hampton University,FALSE,TRUE,232265,41,-76.339161,37.019944,Hampton University
+Hampton University PPCF,TRUE,FALSE,232265,41,-76.339161,37.019944,Hampton University
+Virginia Tech,TRUE,FALSE,233921,42,-80.423675,37.229012,Virginia Polytechnic Institute and State University
+Virginia Tech University,FALSE,TRUE,233921,42,-80.423675,37.229012,Virginia Polytechnic Institute and State University
+University of Wisconsin,TRUE,FALSE,240444,43,-89.404098,43.075409,University of Wisconsin-Madison
+University of Wisconsin-Madison,FALSE,TRUE,240444,43,-89.404098,43.075409,University of Wisconsin-Madison
+University of Wisconsin Milwaukee,TRUE,FALSE,240453,44,-87.880488,43.076848,University of Wisconsin-Milwaukee
+University of Wisconsin-Milwaukee,FALSE,TRUE,240453,44,-87.880488,43.076848,University of Wisconsin-Milwaukee
+High Performance Computing Facility - University of Puerto Rico,TRUE,FALSE,243221,45,-66.050009,18.402826,University of Puerto Rico-Rio Piedras
+"Universidad de Puerto Rico, Rio Piedras Campus (UPRRP)",FALSE,TRUE,243221,45,-66.050009,18.402826,University of Puerto Rico-Rio Piedras
+University of Puerto Rico,FALSE,TRUE,243221,45,-66.050009,18.402826,University of Puerto Rico-Rio Piedras
+Penn State University,TRUE,FALSE,495767,46,-77.862848,40.7965,The Pennsylvania State University
+Pennsylvania State University,FALSE,TRUE,495767,46,-77.862848,40.7965,The Pennsylvania State University
+The Pennsylvania State University,FALSE,TRUE,495767,46,-77.862848,40.7965,The Pennsylvania State University
+Lawrence Berkeley National Laboratory,FALSE,TRUE,,47,-122.2933747,37.85090225,
+Lawrence Berkley National Laboratory,TRUE,FALSE,,47,-122.2933747,37.85090225,
+ANL,TRUE,FALSE,,49,-87.97779883,41.71770212,
+Argonne National Lab,FALSE,TRUE,,49,-87.97779883,41.71770212,
+Argonne National Laboratory,FALSE,TRUE,,49,-87.97779883,41.71770212,
+Fermi National Accelerator Laboratory,TRUE,FALSE,,50,-88.26182229,41.83842585,
+Fermilab,FALSE,TRUE,,50,-88.26182229,41.83842585,
+OSG,FALSE,TRUE,,51,-89.40075426,43.072278,
+Open Science Grid,FALSE,TRUE,,51,-89.40075426,43.072278,
+ATLAS,FALSE,TRUE,,52,6.056192084,46.23285624,
+US ATLAS,FALSE,TRUE,,52,6.056192084,46.23285624,
+PNNL,TRUE,FALSE,,53,-119.2791421,46.34501286,
+Pacific Northwest National Laboratory,FALSE,TRUE,,53,-119.2791421,46.34501286,
+Brigham and Women's Hospital,FALSE,TRUE,,,-71.10720318,42.33555066,
+Academia Sinica,TRUE,FALSE,,,121.6157235,25.04253039,
+Albert Einstein College of Medicine,FALSE,TRUE,385415,,-73.846327,40.852847,Albert Einstein College of Medicine
+Allen Independent School District,FALSE,TRUE,,,-96.6700952,33.10227581,
+American Museum of Natural History,TRUE,TRUE,,,-73.97407403,40.78126721,
+Arcadia University,FALSE,TRUE,211088,,-75.163876,40.092606,Arcadia University
+Arizona State University,TRUE,TRUE,104151,,-111.934383,33.417721,Arizona State University Campus Immersion
+Austin Peay State University,FALSE,TRUE,219602,,-87.354081,36.533319,Austin Peay State University
+Bay Area Environmental Research Institute,FALSE,TRUE,,,-122.0588461,37.41308459,
+Baylor College of Medicine,FALSE,TRUE,223223,,-95.395743,29.7106,Baylor College of Medicine
+Baylor University,TRUE,TRUE,223232,,-97.121041,31.546872,Baylor University
+Bellarmine University,TRUE,FALSE,156286,,-85.704997,38.219279,Bellarmine University
+Boise State University,FALSE,TRUE,142115,,-116.203301,43.604284,Boise State University
+Boston Children's Hospital,FALSE,TRUE,,,-71.10405757,42.33824363,
+Boston College,FALSE,TRUE,164924,,-71.169242,42.336213,Boston College
+Boston University,TRUE,TRUE,164988,,-71.107942,42.351118,Boston University
+Brandeis University,TRUE,TRUE,165015,,-71.260155,42.365727,Brandeis University
+Brigham Young University Idaho,FALSE,TRUE,230038,,-111.649281,40.250851,Brigham Young University
+Broad Institute,FALSE,TRUE,,,-71.08911847,42.36329353,
+Brookhaven National Laboratory,TRUE,TRUE,,,-72.87937552,40.86272348,
+Brown University,TRUE,TRUE,217156,,-71.40385,41.82617,Brown University
+Bryn Mawr College,FALSE,TRUE,211273,,-75.313223,40.02736,Bryn Mawr College
+Bucknell University,FALSE,TRUE,211291,,-76.882616,40.954317,Bucknell University
+CBPF,TRUE,FALSE,,,-43.17381421,-22.95428891,
+CDMS,FALSE,TRUE,,,-122.2029954,37.4198005,
+CENF_NeutrinoPlatform,TRUE,FALSE,,,6.056192084,46.23285624,
+CERN,FALSE,TRUE,,,6.056192084,46.23285624,
+CILogon_org,TRUE,FALSE,,,-88.22525737,40.11483123,
+CUNY Brooklyn College,FALSE,TRUE,190549,,-73.949898,40.631517,CUNY Brooklyn College
+CUNY Graduate Center,TRUE,FALSE,190567,,-73.948542,40.819846,CUNY City College
+"California State University, Northridge",FALSE,TRUE,110608,,-118.529319,34.240126,California State University-Northridge
+"California State University, San Bernadino",FALSE,TRUE,110510,,-117.323801,34.182622,California State University-San Bernardino
+CancerComputer,TRUE,FALSE,,,-75.71148779,45.4006929,
+Canisius College,FALSE,TRUE,189705,,-78.852577,42.925206,Canisius College
+Cardiff University,TRUE,FALSE,,,-3.178992848,51.48658031,
+Carnegie-Mellon University,FALSE,TRUE,211440,,-79.941993,40.44357,Carnegie Mellon University
+Case Western Reserve University,FALSE,TRUE,201645,,-81.609596,41.507419,Case Western Reserve University
+Cedars-Sinai Medical Center,FALSE,TRUE,,,-118.3523778,34.10789232,
+Centre College,FALSE,TRUE,156408,,-84.779392,37.645709,Centre College
+Chicago State University,FALSE,TRUE,144005,,-87.609384,41.718446,Chicago State University
+Cinvestav,TRUE,FALSE,,,-99.12966199,19.50960305,
+Clarkson University,TRUE,TRUE,190044,,-74.999359,44.662716,Clarkson University
+Clemson University,TRUE,TRUE,217882,,-82.835114,34.679381,Clemson University
+Coe College,FALSE,TRUE,153144,,-91.658192,41.988263,Coe College
+College of Charleston,FALSE,TRUE,217819,,-79.939794,32.784225,College of Charleston
+Colorado School of Mines,FALSE,TRUE,126775,,-105.223364,39.751443,Colorado School of Mines
+Colorado State University,FALSE,TRUE,126818,,-105.080732,40.574805,Colorado State University-Fort Collins
+Compute Canada,TRUE,FALSE,,,-79.38509587,43.64859422,
+Computer Network Information Center (CNIC),TRUE,FALSE,,,-83.42777455,42.4238407,
+Cornell University,TRUE,TRUE,190415,,-76.483084,42.4472,Cornell University
+Creighton University,FALSE,TRUE,181002,,-95.947811,41.265361,Creighton University
+CyVerse,TRUE,FALSE,,,116.3355999,39.91055038,
+Cybera,TRUE,FALSE,,,-114.1288497,51.07969,
+DOSAR,FALSE,TRUE,,,-74.6551622,40.34306179,
+DUNE,FALSE,TRUE,,,-88.26182229,41.83842585,
+Darkside,FALSE,TRUE,,,13.51390336,42.42006996,
+Dartmouth College,FALSE,TRUE,182670,,-72.289949,43.704115,Dartmouth College
+"Dearborn Center for Math, Science, and Technology",FALSE,TRUE,,,-83.26100292,42.3404709,
+Doane University,FALSE,TRUE,181020,,-96.950932,40.622952,Doane University
+Donald Danforth Plant Science Center,TRUE,TRUE,,,-90.39692046,38.67420528,
+Drexel University,FALSE,TRUE,212054,,-75.190051,39.955217,Drexel University
+Duquesne University,FALSE,TRUE,212106,,-79.993123,40.43589,Duquesne University
+Dutch National e-Infrastructure,TRUE,FALSE,,,4.951195253,52.35618376,
+ETH Zurich,FALSE,TRUE,,,8.546083048,47.37681029,
+Elizabethtown College,FALSE,TRUE,212197,,-76.593224,40.149236,Elizabethtown College
+Emory University,FALSE,TRUE,139658,,-84.325512,33.790183,Emory University
+Energy Sciences Network,TRUE,FALSE,,,-122.2495003,37.87599193,
+"Eureka Scientific, Inc.",FALSE,TRUE,,,-122.208555,37.80361321,
+Facility for Rare Isotopes Beams (FRIB),FALSE,TRUE,,,-84.47445949,42.72482797,
+Fairfield,FALSE,TRUE,129242,,-73.255903,41.157673,Fairfield University
+Florida A&M University,TRUE,FALSE,133650,,-84.290226,30.428504,Florida Agricultural and Mechanical University
+Florida Institute of Technology,TRUE,TRUE,133881,,-80.622893,28.065815,Florida Institute of Technology
+Florida International University,TRUE,TRUE,133951,,-80.373928,25.75732,Florida International University
+Florida State University,TRUE,TRUE,134097,,-84.291921,30.440756,Florida State University
+Fond du Lac Tribal & Community College,FALSE,TRUE,380368,,-92.451326,46.690069,Fond du Lac Tribal and Community College
+Franklin and Marshall College,TRUE,FALSE,212577,,-76.319037,40.048045,Franklin and Marshall College
+George Washington University,FALSE,TRUE,131469,,-77.048363,38.89923,George Washington University
+Georgia Institute of Technology,TRUE,TRUE,139755,,-84.394832,33.77242,Georgia Institute of Technology-Main Campus
+Georgia State University,TRUE,TRUE,139940,,-84.38667,33.7527,Georgia State University
+Great Plains Network,TRUE,TRUE,,,-92.37501415,38.96020722,
+Gridplexus,TRUE,FALSE,,,-73.85721,41.080196,
+Hobart and William Smith Colleges,FALSE,TRUE,191630,,-76.985516,42.858131,Hobart William Smith Colleges
+IFAE,TRUE,FALSE,,,2.109343005,41.50152817,
+INFN-PADOVA,TRUE,FALSE,,,11.885952,45.409357,
+INFN-T1,TRUE,FALSE,,,11.34,44.5,
+Icahn School of Medicine at Mount Sinai,FALSE,TRUE,193405,,-73.952414,40.790359,Icahn School of Medicine at Mount Sinai
+Illinois Institute of Technology,TRUE,TRUE,145725,,-87.627321,41.8313,Illinois Institute of Technology
+Indian Institute of Chemical Biology,FALSE,TRUE,,,88.37014228,22.4973464,
+Indiana University,TRUE,TRUE,151351,,-86.526559,39.16609,Indiana University-Bloomington
+Indiana University of Pennsylvania,FALSE,TRUE,213020,,-79.159332,40.617531,Indiana University of Pennsylvania-Main Campus
+Institute for Protein Innovation,FALSE,TRUE,,,-71.10328919,42.3383876,
+Institute of Physics ASCR,TRUE,FALSE,,,14.43294672,50.08292195,
+"Institute of Plasma Physics, Chinese Academy of Sciences",TRUE,FALSE,,,116.3354604,39.91057507,
+Inter-University Centre for Astronomy and Astrophysics,TRUE,FALSE,,,73.82527931,18.55909909,
+International Center for Theoretical Physics,FALSE,TRUE,,,2.296248836,48.87072674,
+International Centre for Theoretical Sciences,TRUE,FALSE,,,77.50976435,13.14400336,
+International Gravitational-Wave Observatory Network (IGWN),FALSE,TRUE,,,-118.1252046,34.13765758,
+Internet2,TRUE,TRUE,,,-83.69116298,42.30056775,
+Iolani School,FALSE,TRUE,,,-157.8251532,21.28541565,
+Iowa State University,TRUE,TRUE,153603,,-93.648504,42.026212,Iowa State University
+JINR,TRUE,FALSE,,,37.13770436,56.70953168,
+Jackson Laboratory for Genomic Medicine,FALSE,TRUE,,,-72.79326433,41.73263597,
+Jefferson Lab,FALSE,TRUE,,,-71.06263934,42.42809723,
+Kansas State University,TRUE,TRUE,155399,,-96.581077,39.188648,Kansas State University
+Kennesaw State University,TRUE,TRUE,486840,,-84.583052,34.038807,Kennesaw State University
+Kent State University,TRUE,TRUE,157058,,-84.855402,38.201427,Kentucky State University
+Korea Institute of Science and Technology Information,TRUE,FALSE,,,127.3596891,36.36564518,
+LHCONE,TRUE,FALSE,,,6.056192084,46.23285624,
+Lafayette College,TRUE,FALSE,213385,,-75.209786,40.69956,Lafayette College
+Lamar University,TRUE,FALSE,226091,,-94.072244,30.042738,Lamar University
+Lancaster University,FALSE,TRUE,,,-2.787836691,54.01035005,
+Lancium,TRUE,FALSE,,,-95.45563851,30.16029598,
+Langston University,TRUE,FALSE,207209,,-97.260317,35.943982,Langston University
+Lawrence Livermore National Laboratory,TRUE,TRUE,,,-121.7068766,37.68621624,
+Lehigh University,TRUE,TRUE,213543,,-75.380236,40.606822,Lehigh University
+Lonestar Education and Research Network,FALSE,TRUE,,,-101.939675,33.5770425,
+Los Alamos National Lab,FALSE,TRUE,,,-104.2050354,32.38164959,
+"Louisiana School for Math, Science, and the Arts",FALSE,TRUE,,,-93.09625582,31.75224976,
+Louisiana State University,TRUE,TRUE,159391,,-91.178921,30.414986,Louisiana State University and Agricultural & Mechanical College
+Louisiana Tech University,TRUE,TRUE,159647,,-92.649963,32.528297,Louisiana Tech University
+Loyola University Chicago,FALSE,TRUE,146719,,-87.656872,42.000765,Loyola University Chicago
+Massachusetts Green High Performance Computing Center,TRUE,FALSE,,,-72.60735228,42.20250255,
+Massachusetts Institute of Technology,TRUE,TRUE,166683,,-71.093226,42.359243,Massachusetts Institute of Technology
+McGill University,TRUE,FALSE,,,-73.577076,45.5047546,
+Meharry Medical College,FALSE,TRUE,220792,,-86.807371,36.165458,Meharry Medical College
+Memorial Sloan Kettering Cancer Center,FALSE,TRUE,,,-73.97207597,40.76234716,
+Michigan Technological University,FALSE,TRUE,171128,,-88.548092,47.11866,Michigan Technological University
+Missouri University of Science and Technology,FALSE,TRUE,178411,,-91.775583,37.953426,Missouri University of Science and Technology
+Montana State University,FALSE,TRUE,180461,,-111.048812,45.666726,Montana State University
+Montgomery College,FALSE,TRUE,163426,,-77.15929,39.098656,Montgomery College
+NIAID/NIH,FALSE,TRUE,,,-77.11209332,39.06198792,
+NOIR Lab,FALSE,TRUE,,,-110.9467311,32.2309316,
+NSF DC,TRUE,FALSE,,,-77.07071842,38.80145942,
+National Center for High-performance Computing,TRUE,FALSE,,,120.9945238,24.78113106,
+National Energy Research Scientific Computing Center,TRUE,FALSE,,,-122.2528818,37.87576041,
+National Institute of Allergy and Infectious Diseases,FALSE,TRUE,,,-77.1112855,39.06180236,
+National Institute of Standards and Technology,FALSE,TRUE,,,-77.21835804,39.14010493,
+National Oceanic and Atmospheric Administration,FALSE,TRUE,,,-77.03270475,38.89295733,
+National Renewable Energy Laboratory,FALSE,TRUE,,,-77.02473905,38.88508218,
+National Research Council of Canada,FALSE,TRUE,,,-75.61925349,45.44392524,
+Nevada System of Higher Education,FALSE,TRUE,,,-119.8124561,39.55119412,
+New Jersey Institute of Technology,FALSE,TRUE,185828,,-74.177113,40.741997,New Jersey Institute of Technology
+New Mexico State University,TRUE,TRUE,188030,,-106.752069,32.281568,New Mexico State University-Main Campus
+New York University,TRUE,TRUE,193900,,-73.997264,40.729452,New York University
+Niagara University,TRUE,FALSE,193973,,-79.036689,43.137279,Niagara University
+Nicholls State University,FALSE,TRUE,159966,,-90.801571,29.794486,Nicholls State University
+Niels Bohr Institute,TRUE,FALSE,,,12.57149307,55.69694353,
+North Carolina State University,TRUE,TRUE,199193,,-78.674517,35.785111,North Carolina State University at Raleigh
+North Dakota State University,TRUE,TRUE,200332,,-96.800838,46.893127,North Dakota State University-Main Campus
+Northeastern University,TRUE,TRUE,167358,,-71.088782,42.339992,Northeastern University
+Northern Illinois University,TRUE,TRUE,147703,,-88.766428,41.933869,Northern Illinois University
+Northwest Missouri State University,FALSE,TRUE,178624,,-94.883339,40.351692,Northwest Missouri State University
+Northwestern University,TRUE,TRUE,147767,,-87.679858,42.050356,Northwestern University
+Oak Ridge National Laboratory,TRUE,FALSE,,,-84.3103736,35.93108101,
+Ohio Supercomputer Center,TRUE,FALSE,,,-83.04013472,39.99991168,
+Oklahoma State University,TRUE,TRUE,207388,,-97.069743,36.123085,Oklahoma State University-Main Campus
+Old Dominion University,TRUE,FALSE,232982,,-76.30666,36.886418,Old Dominion University
+Oral Roberts University,TRUE,FALSE,207582,,-95.952547,36.049129,Oral Roberts University
+Oregon Health & Science University,FALSE,TRUE,209490,,-122.686096,45.498772,Oregon Health & Science University
+Oregon State University,FALSE,TRUE,209542,,-123.274723,44.56395,Oregon State University
+Pacific Research Platform,FALSE,TRUE,,,-77.07071842,38.80145942,
+Pacific Rim Application and Grid Middleware Assembly (PRAGMA),FALSE,TRUE,,,-77.07071842,38.80145942,
+Pittsburgh Supercomputing Center,TRUE,FALSE,,,-79.94905385,40.44555572,
+Planetary Science Institute,FALSE,TRUE,,,-110.9430147,32.26469675,
+Pontificia Universidad Javeriana,TRUE,FALSE,,,-74.06467523,4.628444721,
+Portland State University,TRUE,TRUE,209807,,-122.686289,45.511601,Portland State University
+Princeton University,TRUE,TRUE,186131,,-74.659365,40.348732,Princeton University
+Purdue University Calumet,FALSE,TRUE,490805,,-87.474236,41.584324,Purdue University Northwest
+Renaissance Computing Institute,FALSE,TRUE,,,-79.018672,35.93933612,
+Rensselaer Polytechnic Institute,FALSE,TRUE,194824,,-73.676646,42.729978,Rensselaer Polytechnic Institute
+Repertoire Immune Medicines,FALSE,TRUE,,,-71.09050087,42.36733429,
+Rhodes College,TRUE,FALSE,221351,,-89.990803,35.154405,Rhodes College
+Rice University,TRUE,TRUE,227757,,-95.402035,29.717897,Rice University
+Rochester Institute of Technology,TRUE,TRUE,195003,,-77.67386,43.084188,Rochester Institute of Technology
+Rockefeller University,FALSE,TRUE,195049,,-73.955198,40.762489,Rockefeller University
+Roswell Park Cancer Institute,FALSE,TRUE,,,-78.86452538,42.89877566,
+Rowan University,FALSE,TRUE,184782,,-75.119119,39.709108,Rowan University
+SLAC National Accelerator Laboratory,FALSE,TRUE,,,-122.2027379,37.4198176,
+SUNY Geneseo,TRUE,FALSE,196167,,-77.821894,42.796645,SUNY College at Geneseo
+SUNY Upstate Medical University,FALSE,TRUE,196307,,-76.140009,43.041819,Upstate Medical University
+Salem State University,FALSE,TRUE,167729,,-70.890234,42.503575,Salem State University
+San Diego State University,FALSE,TRUE,122409,,-117.071228,32.77525,San Diego State University
+Sandia National Laboratories,FALSE,TRUE,,,-106.534338,35.0549163,
+Santa Clara University,FALSE,TRUE,122931,,-121.93784,37.348362,Santa Clara University
+Siena College,FALSE,TRUE,195474,,-73.7526,42.717602,Siena College
+SingAREN,TRUE,FALSE,,,103.8383053,1.319252724,
+South Dakota School of Mines and Technology,FALSE,TRUE,219347,,-103.205753,44.075439,South Dakota School of Mines and Technology
+South Dakota State University,FALSE,TRUE,219356,,-96.782139,44.317485,South Dakota State University
+Southern Illinois University,FALSE,TRUE,149222,,-89.217273,37.714193,Southern Illinois University-Carbondale
+Southern Illinois University Edwardsville,TRUE,TRUE,149231,,-89.997779,38.793949,Southern Illinois University-Edwardsville
+Southern Methodist University,TRUE,TRUE,228246,,-96.783365,32.843612,Southern Methodist University
+Southwest Oklahoma State University,FALSE,TRUE,207865,,-98.707768,35.535281,Southwestern Oklahoma State University
+Space Telescope Science Institute,FALSE,TRUE,,,-76.6302349,39.33621981,
+Spelman College,FALSE,TRUE,141060,,-84.411527,33.745279,Spelman College
+Stanford University,TRUE,TRUE,243744,,-122.167359,37.429434,Stanford University
+State University of New York at Binghamton,FALSE,TRUE,196079,,-75.966889,42.087868,Binghamton University
+Steadman Philippon Research Institute,FALSE,TRUE,,,-106.3816316,39.64300596,
+Susquehanna University,TRUE,FALSE,216278,,-76.875329,40.797502,Susquehanna University
+Swarthmore College,FALSE,TRUE,216287,,-75.354278,39.905159,Swarthmore College
+Swinburne University of Technology,TRUE,FALSE,,,145.038858,-37.82225208,
+Syracuse University,TRUE,TRUE,196413,,-76.136975,43.040176,Syracuse University
+Tata Institute of Fundamental Research,TRUE,FALSE,,,72.8062449,18.90638244,
+Tennessee Tech University,FALSE,TRUE,221847,,-85.504039,36.174754,Tennessee Technological University
+Texas A&M University,TRUE,TRUE,226152,,-99.436043,27.571172,Texas A & M International University
+Texas Advanced Computing Center,TRUE,FALSE,,,-97.72552615,30.38995077,
+Texas Tech University,TRUE,TRUE,229115,,-101.874783,33.583448,Texas Tech University
+The Citadel,FALSE,TRUE,217864,,-79.958775,32.797183,Citadel Military College of South Carolina
+The College of New Jersey,TRUE,TRUE,187134,,-74.778791,40.268651,The College of New Jersey
+The University of Texas at San Antonio,FALSE,TRUE,229027,,-98.620657,29.583709,The University of Texas at San Antonio
+Thomas Jefferson National Accelerator Facility,TRUE,FALSE,,,-76.48162293,37.09440332,
+Toyota Technological Institute at Chicago,FALSE,TRUE,445054,,-87.592682,41.784721,Toyota Technological Institute at Chicago
+Tufts University,TRUE,TRUE,168148,,-71.118293,42.40855,Tufts University
+UMSNH,TRUE,FALSE,,,-101.2032047,19.68760388,
+USDA Agricultural Research Service,FALSE,TRUE,,,-89.41624245,43.06666798,
+United States Department of Agriculture,FALSE,TRUE,,,-77.03127364,38.88461578,
+Universidad Autonoma de Manizales,TRUE,FALSE,,,-75.50323175,5.067440326,
+Universidad Autonoma del Caribe,TRUE,FALSE,,,-74.82350136,11.00434824,
+Universidad Catolica de Colombia,TRUE,FALSE,,,-74.06665786,4.633976709,
+Universidad Industrial de Santander,TRUE,FALSE,,,-74.03299432,4.696967416,
+Universidad Pontificia Bolivariana,TRUE,FALSE,,,-74.06664018,4.620652526,
+Universidad Tecnologica de Bolivar,TRUE,FALSE,,,-75.46547312,10.37026399,
+Universidad de Caldas,TRUE,FALSE,,,-75.49282847,5.055926964,
+Universidad de Medellin,TRUE,FALSE,,,-75.6101673,6.231534279,
+Universidad de los Andes,TRUE,FALSE,,,-74.06571905,4.602406416,
+Universidad del Valle,TRUE,FALSE,,,-76.53294587,3.375594096,
+Universidade Estadual Paulista,TRUE,FALSE,,,-48.43772131,-22.86004427,
+Universidade de Sao Paulo,TRUE,FALSE,,,-46.72264374,-23.5627831,
+Universidade de São Paulo - Laboratório de Computação Científica Avançada,TRUE,FALSE,,,-46.73144806,-23.55880936,
+Universidade do Estado do Rio de Janeiro,TRUE,FALSE,,,-43.22292519,-22.902798,
+Universite catholique de Louvain,TRUE,FALSE,,,4.615960828,50.66969028,
+University of Alabama,TRUE,TRUE,100751,,-87.545978,33.211875,The University of Alabama
+University of Alaska Fairbanks,FALSE,TRUE,102614,,-147.823146,64.85756,University of Alaska Fairbanks
+University of Amsterdam,TRUE,FALSE,,,4.955822857,52.35578542,
+University of Arizona,TRUE,TRUE,104179,,-110.950815,32.232672,University of Arizona
+University of Arkansas,TRUE,TRUE,106397,,-94.176981,36.070009,University of Arkansas
+University of Arkansas at Little Rock,TRUE,TRUE,106245,,-92.339778,34.723254,University of Arkansas at Little Rock
+University of Bern,TRUE,FALSE,,,7.438215557,46.95047493,
+University of Birmingham,TRUE,FALSE,,,-1.930336461,52.45072722,
+"University of California, Berkeley",FALSE,TRUE,110635,,-122.260463,37.871918,University of California-Berkeley
+"University of California, Merced",FALSE,TRUE,445188,,-120.424944,37.366237,University of California-Merced
+"University of California, San Francisco",FALSE,TRUE,110699,,-122.458489,37.763737,University of California-San Francisco
+University of Campinas,TRUE,FALSE,,,-47.06476352,-22.81847884,
+University of Central Florida,FALSE,TRUE,132903,,-81.200889,28.602159,University of Central Florida
+University of Cincinnati,FALSE,TRUE,201885,,-84.51428,39.131159,University of Cincinnati-Main Campus
+University of Colorado Anschutz Medical Campus,FALSE,TRUE,126562,,-104.837722,39.745149,University of Colorado Denver/Anschutz Medical Campus
+University of Colorado Denver,TRUE,TRUE,128300,,-104.983277,39.74521,
+University of Connecticut,TRUE,TRUE,129020,,-72.249948,41.809098,University of Connecticut
+University of Connecticut Health Center,TRUE,TRUE,,,-72.79028941,41.73079891,
+University of Delaware,FALSE,TRUE,130943,,-75.752822,39.679577,University of Delaware
+University of Edinburgh,TRUE,TRUE,,,-3.189305675,55.94446171,
+University of Florida,TRUE,TRUE,134130,,-82.347911,29.64629,University of Florida
+University of Georgia,TRUE,FALSE,139959,,-83.374039,33.956262,University of Georgia
+University of Guam,FALSE,TRUE,240754,,144.803978,13.433047,University of Guam
+University of Illinois Chicago,TRUE,TRUE,145600,,-87.650503,41.871837,University of Illinois Chicago
+University of Iowa,TRUE,TRUE,153658,,-91.536425,41.661935,University of Iowa
+University of Johannesburg,TRUE,FALSE,,,27.99878966,-26.18570333,
+University of Kentucky,FALSE,TRUE,157085,,-84.504747,38.038911,University of Kentucky
+University of Louisville,FALSE,TRUE,157289,,-85.760412,38.216862,University of Louisville
+University of Macau,FALSE,TRUE,,,113.5579178,22.16429503,
+University of Maine,FALSE,TRUE,161253,,-68.669332,44.899257,University of Maine
+University of Maine System,TRUE,FALSE,161253,,-68.669332,44.899257,University of Maine
+University of Maryland Baltimore,FALSE,TRUE,163259,,-76.623983,39.286864,"University of Maryland, Baltimore"
+University of Massachusetts Boston,FALSE,TRUE,166638,,-71.036865,42.312881,University of Massachusetts-Boston
+University of Massachusetts Lowell,FALSE,TRUE,166513,,-71.326809,42.652864,University of Massachusetts-Lowell
+University of Michigan,TRUE,TRUE,170976,,-83.742769,42.275921,University of Michigan-Ann Arbor
+University of Minnesota,TRUE,TRUE,174066,,-93.235464,44.972851,University of Minnesota-Twin Cities
+University of Minnesota Duluth,FALSE,TRUE,174233,,-92.084385,46.817126,University of Minnesota-Duluth
+University of Montana,FALSE,TRUE,180489,,-113.982912,46.859312,The University of Montana
+University of Nebraska Medical Center,FALSE,TRUE,181428,,-95.973966,41.256312,University of Nebraska Medical Center
+University of Nebraska Omaha,FALSE,TRUE,181394,,-96.008516,41.258769,University of Nebraska at Omaha
+"University of Nevada, Reno",FALSE,TRUE,182290,,-119.815377,39.543642,University of Nevada-Reno
+University of New England,FALSE,TRUE,161457,,-70.38535,43.458591,University of New England
+University of New Haven,FALSE,TRUE,129941,,-72.961472,41.291314,University of New Haven
+University of New Mexico,TRUE,TRUE,187985,,-106.620155,35.083868,University of New Mexico-Main Campus
+University of North Dakota,FALSE,TRUE,200280,,-97.071738,47.921654,University of North Dakota
+University of Northern Iowa,TRUE,TRUE,154095,,-92.459703,42.514923,University of Northern Iowa
+University of Notre Dame,TRUE,TRUE,152080,,-86.238959,41.703058,University of Notre Dame
+University of Oregon,FALSE,TRUE,209551,,-123.075792,44.045146,University of Oregon
+University of Oxford,FALSE,TRUE,,,-1.254377531,51.75476989,
+University of Pittsburgh,TRUE,TRUE,215293,,-79.953254,40.444388,University of Pittsburgh-Pittsburgh Campus
+University of Puerto Rico - Mayaguez,TRUE,TRUE,243197,,-67.139172,18.211142,University of Puerto Rico-Mayaguez
+University of Rochester,FALSE,TRUE,195030,,-77.631202,43.126397,University of Rochester
+University of Sheffield,FALSE,TRUE,,,-1.488347801,53.38129258,
+University of South Carolina,FALSE,TRUE,218663,,-81.026935,33.996788,University of South Carolina-Columbia
+University of South Dakota,TRUE,TRUE,219471,,-96.925283,42.786019,University of South Dakota
+University of South Florida,TRUE,TRUE,137351,,-82.413232,28.061458,University of South Florida
+University of Texas at Austin,TRUE,TRUE,228778,,-97.738273,30.282825,The University of Texas at Austin
+University of Texas at Dallas,TRUE,TRUE,228787,,-96.749702,32.984673,The University of Texas at Dallas
+University of Texas at El Paso,FALSE,TRUE,228796,,-106.504098,31.77015,The University of Texas at El Paso
+University of Toledo,FALSE,TRUE,206084,,-83.614714,41.660572,University of Toledo
+University of Tulsa,FALSE,TRUE,207971,,-95.945941,36.152324,University of Tulsa
+University of Utah,TRUE,TRUE,230764,,-111.846044,40.762484,University of Utah
+University of Venda,FALSE,TRUE,,,30.44650115,-22.97610565,
+University of Vermont,FALSE,TRUE,231174,,-73.196646,44.477325,University of Vermont
+University of Virginia,TRUE,TRUE,234076,,-78.503428,38.035665,University of Virginia-Main Campus
+University of Washington,TRUE,TRUE,236948,,-122.30514,47.65538,University of Washington-Seattle Campus
+University of Wyoming,FALSE,TRUE,240727,,-105.57931,41.311773,University of Wyoming
+Utah State University,FALSE,TRUE,230728,,-111.81391,41.740748,Utah State University
+Utrecht University,FALSE,TRUE,,,5.17568474,52.08516929,
+Vanderbilt University,TRUE,TRUE,221999,,-86.803369,36.14659,Vanderbilt University
+Villanova University,TRUE,TRUE,216597,,-75.340502,40.036463,Villanova University
+Washington State University,FALSE,TRUE,236939,,-117.158168,46.730448,Washington State University
+Washington University in St. Louis,FALSE,TRUE,179867,,-90.310604,38.647929,Washington University in St Louis
+Wayne State University,TRUE,TRUE,172644,,-83.068998,42.358994,Wayne State University
+Webster University,FALSE,TRUE,179894,,-90.345151,38.588875,Webster University
+Wesleyan University,FALSE,TRUE,130697,,-72.657146,41.554665,Wesleyan University
+West Chester University of Pennsylvania,FALSE,TRUE,216764,,-75.59812,39.953398,West Chester University of Pennsylvania
+West Texas A&M University,TRUE,FALSE,229814,,-101.914736,34.982789,West Texas A & M University
+Western Washington University,FALSE,TRUE,237011,,-122.485734,48.737812,Western Washington University
+Wichita State University,FALSE,TRUE,156125,,-97.292361,37.718882,Wichita State University
+Worcester Polytechnic Institute,FALSE,TRUE,168421,,-71.808339,42.274853,Worcester Polytechnic Institute
+Wright State Research Institute,FALSE,TRUE,,,-84.1089039,39.71782686,
+Yale University,FALSE,TRUE,130794,,-72.926688,41.311158,Yale University
